@@ -14,5 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome Laravel 10.x');
+    return view('welcome Laravel 10.x.x');
 });
